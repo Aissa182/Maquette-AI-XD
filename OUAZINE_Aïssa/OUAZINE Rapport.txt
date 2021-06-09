@@ -1,0 +1,335 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : OUAZINE.ai
+Mode : Couleurs RVB
+Profil colorimétrique : sRGB IEC61966-2.1
+Unité : pixels
+Dimensions : 1125 px x 2436 px
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :
+Myriad Pro (Polices Adobe)
+
+-----------------------------------------------------------------------------
+Polices :
+Acumin Variable Concept Default (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\BND_170082-COR-R-LATAM-Star_Ratings_Post_5_Stars.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 892K, 1029 x 296 pixels
+Dimensions : 349 x 112,4 points 
+Résolution : 212,287 x 189,609 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-force-1-shadow-pour-M8SqJM.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 2733K, 864 x 1080 pixels
+Dimensions : 688 x 703,72 points 
+Résolution : 90,419 x 110,498 pixels par pouce
+
+
+C:\Users\aissa\Desktop\BND_170082-COR-R-LATAM-Star_Ratings_Post_5_Stars.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 892K, 1029 x 296 pixels
+Dimensions : 349 x 112,4 points 
+Résolution : 212,287 x 189,609 pixels par pouce
+
+
+C:\Users\aissa\Desktop\maillot-de-football-dri-fit-adv-paris-saint-germain-2021-22-match-domicile-pour-XNXHJg.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1026K, 592 x 592 pixels
+Dimensions : 557 x 555 points 
+Résolution : 76,524 x 76,8 pixels par pouce
+
+
+C:\Users\aissa\Desktop\BND_170082-COR-R-LATAM-Star_Ratings_Post_5_Stars.png
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 892K, 1029 x 296 pixels
+Dimensions : 349 x 112,4 points 
+Résolution : 212,287 x 189,609 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-max-plus-pour-b3Jt2T.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 473K, 402 x 402 pixels
+Dimensions : 762 x 780 points 
+Résolution : 37,984 x 37,108 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-force-1-shadow-pour-M8SqJM.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 2733K, 864 x 1080 pixels
+Dimensions : 688 x 703,72 points 
+Résolution : 90,419 x 110,498 pixels par pouce
+
+
+C:\Users\aissa\Desktop\maillot-de-football-dri-fit-adv-paris-saint-germain-2021-22-match-domicile-pour-XNXHJg.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1026K, 592 x 592 pixels
+Dimensions : 557 x 555 points 
+Résolution : 76,524 x 76,8 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-max-plus-pour-b3Jt2T.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 473K, 402 x 402 pixels
+Dimensions : 762 x 780 points 
+Résolution : 37,984 x 37,108 pixels par pouce
+
+
+C:\Users\aissa\Desktop\jd_340328_a.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1344K, 600 x 765 pixels
+Dimensions : 669 x 828 points 
+Résolution : 64,574 x 66,522 pixels par pouce
+
+
+C:\Users\aissa\Desktop\379545100.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1094K, 539 x 693 pixels
+Dimensions : 672 x 828 points 
+Résolution : 57,75 x 60,261 pixels par pouce
+
+
+C:\Users\aissa\Desktop\nike-pantalon-air-pour-homme.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 395K, 300 x 450 pixels
+Dimensions : 698,36 x 925,28 points 
+Résolution : 30,93 x 35,016 pixels par pouce
+
+
+C:\Users\aissa\Desktop\maillot-de-football-dri-fit-adv-paris-saint-germain-2021-22-match-domicile-pour-XNXHJg.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1026K, 592 x 592 pixels
+Dimensions : 557 x 555 points 
+Résolution : 76,524 x 76,8 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-force-1-shadow-pour-M8SqJM.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 2733K, 864 x 1080 pixels
+Dimensions : 688 x 703,72 points 
+Résolution : 90,419 x 110,498 pixels par pouce
+
+
+C:\Users\aissa\Desktop\chaussure-air-max-plus-pour-b3Jt2T.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 473K, 402 x 402 pixels
+Dimensions : 762 x 780 points 
+Résolution : 37,984 x 37,108 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (6).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 148K, 225 x 225 pixels
+Dimensions : 531 x 518,58 points 
+Résolution : 30,508 x 31,239 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (5).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 148K, 225 x 225 pixels
+Dimensions : 564,38 x 563,82 points 
+Résolution : 28,704 x 28,733 pixels par pouce
+
+
+C:\Users\aissa\Desktop\téléchargement (2).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 147K, 201 x 251 pixels
+Dimensions : 541 x 633 points 
+Résolution : 26,75 x 28,55 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (4).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 148K, 225 x 225 pixels
+Dimensions : 526,5 x 513,5 points 
+Résolution : 30,769 x 31,548 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (3).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 147K, 304 x 166 pixels
+Dimensions : 466,56 x 295,64 points 
+Résolution : 46,914 x 40,428 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (2).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 148K, 225 x 225 pixels
+Dimensions : 590 x 613,5 points 
+Résolution : 27,458 x 26,406 pixels par pouce
+
+
+C:\Users\aissa\Desktop\téléchargement (1).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 147K, 290 x 174 pixels
+Dimensions : 583 x 352,24 points 
+Résolution : 35,815 x 35,567 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images (1).jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 147K, 290 x 174 pixels
+Dimensions : 633 x 339,96 points 
+Résolution : 32,986 x 36,851 pixels par pouce
+
+
+C:\Users\aissa\Desktop\images.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 148K, 225 x 225 pixels
+Dimensions : 537,74 x 535,62 points 
+Résolution : 30,126 x 30,245 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
+
+
+C:\Users\aissa\Desktop\unnamed.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 576K, 512 x 384 pixels
+Dimensions : 288 x 211 points 
+Résolution : 128 x 131,033 pixels par pouce
